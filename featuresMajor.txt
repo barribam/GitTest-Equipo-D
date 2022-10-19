@@ -1,0 +1,1 @@
+Major features for next release, incorporar a develop, despues a release y crear Tag 1 en master
